@@ -4,7 +4,7 @@ Everything here comes from the talk *Triage Before Treatment: Running Incident T
 
 This repo, and everything else on this GitHub is for the betterment of the (SMB) community. Some of it works for enterprise too. Take it, change it, run it.
 
-##Notes from the talk:## Y'all were a great audience and I feel like we had some good collaboration and questions. 
+**Notes from the talk:** Y'all were a great audience and I feel like we had some good collaboration and questions. 
 
 We briefly hit on Backdoors & Breaches as a way to build out engaging exercises, and how the randomness of injects is one of my favorite parts of the game. Play online: play.backdoorsandbreaches.com
 
@@ -13,7 +13,7 @@ During a tabletop exercise, teams will inevitably debate whether to tag the CEOâ
 
 This is why tourniquet authority and triage rules must be agreed upon before an incident. If your team cannot treat a C-suite asset like any other compromised piece of hardware out of fear of administrative pushback, your triage protocol will stall right where it matters most.
 
-##10/31/2026: UPDATE## - I'm uploading a chapter from a project I've been working on for a couple of years, as it was one of my first attempts at trying to blend the methods into incident handling and tabletops. 
+**10/31/2026: UPDATE** - I'm uploading a chapter from a project I've been working on for a couple of years, as it was one of my first attempts at trying to blend the methods into incident handling and tabletops. 
 
 ## The method
 

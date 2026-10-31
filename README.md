@@ -4,7 +4,7 @@ Everything here comes from the talk *Triage Before Treatment: Running Incident T
 
 This repo, and everything else on this GitHub is for the betterment of the (SMB) community. Some of it works for enterprise too. Take it, change it, run it.
 
-##Notes from the talk:** Y'all were a great audience and I feel like we had some good collaboration and questions. 
+##Notes from the talk:## Y'all were a great audience and I feel like we had some good collaboration and questions. 
 
 We briefly hit on Backdoors & Breaches as a way to build out engaging exercises, and how the randomness of injects is one of my favorite parts of the game. Play online: play.backdoorsandbreaches.com
 

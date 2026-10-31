@@ -1,8 +1,19 @@
 # Triage Before Treatment: Tabletop Kit
 
-Everything here comes from the talk *Triage Before Treatment: Running Incident Tabletops Like a Trauma Bay*, first given at Triangle InfoSeCon on 30 October 2026 and is provided as a jumpstart to your own tabletops. .
+Everything here comes from the talk *Triage Before Treatment: Running Incident Tabletops Like a Trauma Bay*, first given at Triangle InfoSeCon on 30 October 2026 and is provided as a jump start to your own tabletops. 
 
-This repo, and everything else on this GitHub is for the betterment of the (SMB) community. Some of it works for enterpise too. Take it, change it, run it.
+This repo, and everything else on this GitHub is for the betterment of the (SMB) community. Some of it works for enterprise too. Take it, change it, run it.
+
+##Notes from the talk:** Y'all were a great audience and I feel like we had some good collaboration and questions. 
+
+We briefly hit on Backdoors & Breaches as a way to build out engaging exercises, and how the randomness of injects is one of my favorite parts of the game. Play online: play.backdoorsandbreaches.com
+
+A sidebar I keep going over from the TTX discussion during the talk. The CEO's laptop got tagged as expectant. It made me think...
+During a tabletop exercise, teams will inevitably debate whether to tag the CEO’s primary laptop or executive mobile device as Expectant, writing it off as compromised and forcing a wipe/rebuild rather than trying to clean it. Technically, if an attacker had dwell time or lateral movement paths near the C-suite, an Expectant tag is often the correct engineering call. Politically, however, pulling the executive's device without pre-established authority is a career-limiting move.
+
+This is why tourniquet authority and triage rules must be agreed upon before an incident. If your team cannot treat a C-suite asset like any other compromised piece of hardware out of fear of administrative pushback, your triage protocol will stall right where it matters most.
+
+##10/31/2026: UPDATE## - I'm uploading a chapter from a project I've been working on for a couple of years, as it was one of my first attempts at trying to blend the methods into incident handling and tabletops. 
 
 ## The method
 
